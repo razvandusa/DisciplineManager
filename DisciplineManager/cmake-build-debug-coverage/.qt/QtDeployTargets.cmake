@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DisciplineManager_FILE /Users/razvandusa/CLionProjects/DisciplineManager/cmake-build-debug-coverage/DisciplineManager)
+set(__QT_DEPLOY_TARGET_DisciplineManager_TYPE EXECUTABLE)
