@@ -33,8 +33,9 @@ cd DisciplineManager
 2. Configure the project:
 
 ```bash
-cd DisciplineManager
-cmake .
+mkdir -p build
+cd build
+cmake ..
 make
 ```
 
