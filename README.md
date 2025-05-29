@@ -30,12 +30,10 @@ git clone <repo_url>
 cd DisciplineManager
 ```
 
-2. Create a build directory and configure the project:
+2. Configure the project:
 
 ```bash
-mkdir build
-cd build
-cmake ..
+cmake .
 make
 ```
 
